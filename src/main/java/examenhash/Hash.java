@@ -34,7 +34,7 @@ public class Hash {
             estado="Reprobado";
         }else if(sumaCaracteres>=7&&sumaCaracteres<=9){
             estado="Aprovado";
-        }else if(sumaCaracteres>10){
+        }else if(sumaCaracteres>=10){
             estado="Excelente";
         }
         
